@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                   FadeAnimation(1.8, Container(
                     padding: EdgeInsets.all(5),
                     decoration: BoxDecoration(
-                      color: Colors.white,
+                      color: Colors.black,
                       borderRadius: BorderRadius.circular(10),
                       boxShadow: [
                         BoxShadow(
